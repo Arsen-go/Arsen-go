@@ -35,7 +35,7 @@ docker run -p 3000:3000 execute-code
 
 ## Support 💬
 
-For questions or support requests, [open an issue](link-to-issues).
+For questions or support requests, [open an issue](https://github.com/Arsen-go/execute-code/issues).
 
 ## Stay Updated 📩
 
