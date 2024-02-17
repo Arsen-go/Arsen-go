@@ -11,6 +11,8 @@ PolyglotCoder API is a versatile service for executing code written in various p
   - `"language"`: Programming language (e.g., java, py, cpp).
   - `"input"` (optional): Input data for the script.
 
+- **GET /list**: returns supported languages and infos for them like versions and commands
+
 ### Response
 
 Receive real-time feedback on code execution, including output, errors, and status information.
