@@ -1,7 +1,6 @@
-# PolyglotCoder
-# [Your Project Name] API 🚀
+# PolyglotCoder API 🚀
 
-[Your Project Name] API is a versatile service for executing code written in various programming languages. Developers can integrate this API into their applications to enable real-time code execution and feedback.
+PolyglotCoder API is a versatile service for executing code written in various programming languages. Developers can integrate this API into their applications to enable real-time code execution and feedback.
 
 ## Usage 📝
 
@@ -24,26 +23,27 @@ Receive real-time feedback on code execution, including output, errors, and stat
 - **Secure Environment**: Executes code in a sandboxed environment for safety.
 
 ## Get Started 🚀
+npm i
+npm run start
 
-[Instructions on using the API, including endpoint details and payload examples.]
+with docker
+```bash
+docker build --no-cache -t execute-code .
 
-## Contribute 🤝
-
-We welcome contributions! Report bugs, suggest features, or contribute code by [opening an issue](link-to-issues) or [joining our chat](link-to-chat).
+docker run -p 3000:3000 execute-code
+```
 
 ## Support 💬
 
-For questions or support requests, [open an issue](link-to-issues) or [join our chat](link-to-chat).
+For questions or support requests, [open an issue](link-to-issues).
 
 ## Stay Updated 📩
 
-Follow us on [Twitter](link-to-twitter) and [subscribe to our newsletter](link-to-newsletter) for updates.
+Follow me on [Linkedin](https://www.linkedin.com/in/arsen-matevosyan-592b071b4/) .
 
-## License 📝
+Integrate PolyglotCoder API into your applications for seamless code execution and rapid development! 🌟
 
-[Your Project Name] is [licensed under the MIT License](link-to-license).
+## Source Code 📁
 
----
-
-Integrate [Your Project Name] API into your applications for seamless code execution and rapid development! 🌟
+Check out the source code on [GitHub](https://github.com/Arsen-go/execute-code)!
 
