@@ -46,11 +46,10 @@ For questions or support requests, [open an issue](https://github.com/Arsen-go/e
 
 Follow me on [Linkedin](https://www.linkedin.com/in/arsen-matevosyan-592b071b4/) .
 
-https://github-readme-activity-graph.vercel.app/graph?username=Arsen-go&theme=react-dark
-
 Integrate PolyglotCoder API into your applications for seamless code execution and rapid development! 🌟
 
 ## Source Code 📁
 
 Check out the source code on [GitHub](https://github.com/Arsen-go/execute-code)!
 
+[![Hrach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrachgalstyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
