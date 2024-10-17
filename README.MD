@@ -52,4 +52,4 @@ Integrate PolyglotCoder API into your applications for seamless code execution a
 
 Check out the source code on [GitHub](https://github.com/Arsen-go/execute-code)!
 
-[![Hrach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrachgalstyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrachgalstyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
