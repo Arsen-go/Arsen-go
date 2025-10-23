@@ -206,13 +206,12 @@ An AI-powered assistant leveraging **Vertex AI, Gemini, RAG, and LangChain** to 
 </table>
 
 ---
-
 ## 🎯 Current Focus
-
 ```yaml
 learning: Advanced AI/ML integration with backend systems
 exploring: Vector databases and semantic search optimization
 building: Scalable microservices with LLM capabilities
+passionate_about: Mobile app development and cross-platform solutions
 interested_in: Cloud-native architectures and DevOps practices
 ```
 
@@ -222,16 +221,20 @@ interested_in: Cloud-native architectures and DevOps practices
     <td>Exploring RAG pipelines and vector similarity search</td>
   </tr>
   <tr>
+    <td align="center">📱</td>
+    <td>Building mobile applications with passion and innovation</td>
+  </tr>
+  <tr>
     <td align="center">🤝</td>
-    <td>Open to collaborate on AI-powered backend projects</td>
+    <td>Open to collaborate on AI-powered backend and mobile projects</td>
   </tr>
   <tr>
     <td align="center">💬</td>
-    <td>Ask me about Node.js, .NET, GraphQL, or LangChain</td>
+    <td>Ask me about Node.js, .NET, GraphQL, LangChain, or Mobile Development</td>
   </tr>
   <tr>
     <td align="center">⚡</td>
-    <td>Building the future, one API at a time</td>
+    <td>Building the future, one API and one app at a time</td>
   </tr>
 </table>
 
@@ -249,7 +252,7 @@ interested_in: Cloud-native architectures and DevOps practices
   <a href="https://github.com/Arsen-go">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://imperialcg.com/">
+  <a href="https://matevosyan-a-n-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
