@@ -12,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" width="100%"/>
-</p>
+
 
 ---
 
@@ -200,6 +198,7 @@ An AI-powered assistant leveraging **Vertex AI, Gemini, RAG, and LangChain** to 
 **🌐 Live Projects**
 - [Imperial CG](https://imperialcg.com/)
 - [WCE Exchange](http://www.wce-ex.com/)
+- [Norcal Software](https://norcalsoftware.com/)
 - [Women's Resource Center](https://wrc-arm-next.vercel.app/en)
 
 </td>
