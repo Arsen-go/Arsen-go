@@ -3,15 +3,9 @@
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsen-go&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Arsen-go?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Arsen-go?color=green&logo=github&style=flat">
-  </a>
   <a href="https://www.linkedin.com/in/arsen-matevosyan-592b071b4/">
     <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
-</p>
-<p align="center">
-  <img src="https://github.com/Arsen-go/Arsen-go/raw/main/assets/banner.gif" alt="coding" width="100%"/>
 </p>
 
 ---
