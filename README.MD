@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arsen+Matevosyan;Backend+Engineer+%F0%9F%92%BB;5%2B+Years+of+Experience+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arsen+Matevosyan;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Building+Amazing+Things+%E2%9C%A8" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsen-go&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/Arsen-go?tab=followers">
@@ -11,13 +10,13 @@
     <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
 </p>
-
-
+<p align="center">
+  <img src="https://github.com/Arsen-go/Arsen-go/raw/main/assets/banner.gif" alt="coding" width="100%"/>
+</p>
 
 ---
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ### 🚀 About Me
 
 ```typescript
