@@ -18,7 +18,6 @@
   </table>
 </div>
 
-<img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 ```typescript
 const arsen = {
@@ -133,6 +132,7 @@ const arsen = {
 ---
 
 ## 🏆 GitHub Trophies
+<img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arsen-go&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
