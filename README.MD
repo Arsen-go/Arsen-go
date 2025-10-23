@@ -13,12 +13,12 @@
   <table>
     <tr>
       <td><img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></td>
-      <td><img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"></td>
+      
     </tr>
   </table>
 </div>
 
-
+<img alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 ```typescript
 const arsen = {
     role: "Backend Engineer",
