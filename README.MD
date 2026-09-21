@@ -30,7 +30,8 @@ const arsen = {
     backend: {
         nodejs: ["NestJS", "Express.js", "AdonisJS"],
         dotnet: [".NET Core", "Entity Framework Core"],
-        api: ["GraphQL", "REST", "gRPC"]
+        api: ["GraphQL", "REST", "gRPC"],
+        payments: ["Stripe", "Lemon Squeezy"]
     },
     
     databases: {
