@@ -41,7 +41,7 @@ const arsen = {
         orms: ["Sequelize", "Mongoose", "Prisma", "EF Core"]
     },
 
-    serialization_formats: ["Protocol Buffers"],
+    serialization_formats: ["Protocol Buffers", "JSON"],
 
     messaging_streaming: {
         brokers: ["RabbitMQ"],
