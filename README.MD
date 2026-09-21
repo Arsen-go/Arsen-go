@@ -30,7 +30,7 @@ const arsen = {
     backend: {
         nodejs: ["NestJS", "Express.js", "AdonisJS"],
         dotnet: [".NET Core", "Entity Framework Core"],
-        api: ["GraphQL", "REST"]
+        api: ["GraphQL", "REST", "gRPC"]
     },
     
     databases: {
@@ -40,6 +40,8 @@ const arsen = {
         vector: ["ChromaDB", "pgvector", "Pinecone"],
         orms: ["Sequelize", "Mongoose", "Prisma", "EF Core"]
     },
+
+    serialization_formats: ["Protocol Buffers"],
 
     messaging_streaming: {
         brokers: ["RabbitMQ"],
