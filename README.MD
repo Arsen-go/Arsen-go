@@ -37,7 +37,7 @@ const arsen = {
     databases: {
         relational: ["PostgreSQL", "MySQL"],
         analytical: ["ClickHouse"],
-        nosql: ["MongoDB"],
+        nosql: ["MongoDB", "Redis"],
         vector: ["ChromaDB", "pgvector", "Pinecone"],
         orms: ["Sequelize", "Mongoose", "Prisma", "EF Core"]
     },
