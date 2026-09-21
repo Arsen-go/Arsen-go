@@ -21,8 +21,8 @@
 
 ```typescript
 const arsen = {
-    role: "Backend Engineer",
-    experience: "5+ Years",
+    role: "Software Engineer",
+    experience: "6+ Years",
     location: "Yerevan, Armenia 🇦🇲",
     
     languages: ["TypeScript", "JavaScript", "C#"],
@@ -35,9 +35,15 @@ const arsen = {
     
     databases: {
         relational: ["PostgreSQL", "MySQL"],
+        analytical: ["ClickHouse"],
         nosql: ["MongoDB"],
         vector: ["ChromaDB", "pgvector", "Pinecone"],
         orms: ["Sequelize", "Mongoose", "Prisma", "EF Core"]
+    },
+
+    messaging_streaming: {
+        brokers: ["RabbitMQ"],
+        streaming: ["Apache Kafka"]
     },
     
     cloud: {
